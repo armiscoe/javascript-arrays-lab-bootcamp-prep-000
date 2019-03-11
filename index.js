@@ -8,5 +8,9 @@ return kittens
 
 function destructivelyPrependKitten(name) {
   
+  kittens.unshift(name)
+  return kittens
 }
+  
+
 // Add your functions and code here
