@@ -34,4 +34,8 @@ function prependKitten(name) {
   
 }
 
+function removeLastKitten() {
+  
+}
+
 // Add your functions and code here
